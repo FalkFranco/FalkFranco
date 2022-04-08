@@ -13,10 +13,10 @@
   - 📬 You can reach me at **falkfranco@gmail.com**
 
 </div>
-<div align="center">
+<div align="left">
   <a href="https://github.com/FalkFranco">
  
-   <a href="https://github.com/FalkFranco?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FalkFranco&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/FalkFranco?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalkFranco&layout=compact&theme=algolia&hide_border=true" /></a> 
+   <a href="https://github.com/FalkFranco?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FalkFranco&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Franco github stats" /></a>  <a href="https://github.com/FalkFranco?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalkFranco&layout=compact&theme=algolia&hide_border=true" /></a> 
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Falk-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
