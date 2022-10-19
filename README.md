@@ -6,7 +6,7 @@
 
   - 📚 I am currently studying "Licenciatura en Sistemas de Informacion" (Bachelor of Information Systems) at the Universidad Nacional del Nordeste (UNNE). 
 
-  - 🌱 I’m currently learning **Reac.Js**
+  - 🌱 I’m currently learning **React.Js**
 
   - 👨‍💻 All of my projects are available at [https://github.com/FalkFranco?tab=repositories](https://github.com/FalkFranco?tab=repositories)
  
